@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "ESP32 Home Control",
+  "short_name": "Home Control",
+  "description": "Control your ESP32 home lights and schedules.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f4ef",
+  "theme_color": "#143a34",
+  "icons": [
+    {
+      "src": "/home-control-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/home-control-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/home-control-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
